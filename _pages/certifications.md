@@ -17,3 +17,4 @@ published: true
 
 # Information-Technology Promotion Agency, Japan
 1993 Senior Programmer Examination (第一種情報処理技術者試験, Credential ID 12500305)
+1992 Programmer Examination (第二種情報処理技術者試験)
