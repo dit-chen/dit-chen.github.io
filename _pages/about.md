@@ -10,9 +10,9 @@ published: true
 ---
 # Hong Chen
 
-Professor @ Daiichi Institute of Technology
-Invited Researcher @ Waseda University
-Guest Lecturer @ Waseda University
+Professor @ Daiichi Institute of Technology  
+Invited Researcher @ Waseda University  
+Guest Lecturer @ Waseda University  
 
 Hong CHEN is a programmer, researcher and an educator. He received his college education at Zhejiang University, Hangzhou, China. He came to Japan and received his graduate education at The University of Electro-Communications and Waseda University, Tokyo, Japan. Now he studies the field of decentralized ubiquitous information systems.
 
