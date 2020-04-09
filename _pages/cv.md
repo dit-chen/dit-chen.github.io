@@ -17,7 +17,7 @@ Work experience
   * Department of Information and Electronics Systems Engineering, Daiichi Institute of Technology
   * Duties included: Lecture, Seminar
 
-* Visiting Lecturer
+* Guest Lecturer
   * Faculty of Human Sciences, Waseda University
   * Duties included: Lecture, Seminar
 
