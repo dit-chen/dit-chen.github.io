@@ -13,7 +13,7 @@ published: true
 
 Work experience
 ======
-* Associate Professor
+* Professor
   * Department of Information and Electronics Systems Engineering, Daiichi Institute of Technology
   * Duties included: Lecture, Seminar
 
